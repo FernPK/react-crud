@@ -1,5 +1,7 @@
 # React CRUD
-This React CRUD app can create, read, update, and delete user information by calling API from https://www.melivecode.com/.
+This React CRUD app can create, read, update, and delete user information by calling REST API from https://www.melivecode.com/.
+
+MUI is used here.
 
 This project was created by following this course from [Me Live Code](https://www.youtube.com/watch?v=CCTzoxLu2FQ&list=LL&index=23&t=321s).
 
